@@ -14,7 +14,7 @@
     "gulp-clean": "0.4.0",
     "gulp-spawn-mocha": "6.0.0",
     "gulp-typescript": "5.0.1",
-    "jest": "25.2.6",
+    "jest": "25.2.7",
     "nodemon": "2.0.2",
     "npm-release": "1.0.0",
     "pre-commit": "1.2.2",
