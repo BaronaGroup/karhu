@@ -15,7 +15,7 @@
     "gulp-spawn-mocha": "6.0.0",
     "gulp-typescript": "5.0.1",
     "jest": "25.5.4",
-    "nodemon": "2.0.3",
+    "nodemon": "2.0.4",
     "npm-release": "1.0.0",
     "pre-commit": "1.2.2",
     "ts-jest": "25.5.1",
