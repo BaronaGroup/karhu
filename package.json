@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@types/chai": "4.2.11",
-    "@types/jest": "26.0.2",
+    "@types/jest": "26.0.3",
     "@types/lodash": "4.14.157",
     "@types/node": "8.10.53",
     "gulp": "4.0.2",
