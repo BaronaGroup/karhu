@@ -6,7 +6,7 @@
     "ansi-styles": "^3.2.0"
   },
   "devDependencies": {
-    "@types/chai": "4.2.11",
+    "@types/chai": "4.2.12",
     "@types/jest": "26.0.6",
     "@types/lodash": "4.14.158",
     "@types/node": "8.10.53",
